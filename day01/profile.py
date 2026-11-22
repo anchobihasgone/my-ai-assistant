@@ -1,6 +1,0 @@
-print("======КАРТОЧКА======")
-first_name = input("Имя: ", )
-last_name = input("Фамилия: ", )
-group = input("Группа: ",)
-speciality = input("Специальность: ", )
-interested = input("Интересуемая область IT: ", )
